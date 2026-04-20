@@ -13,7 +13,7 @@ public class p20 {
         int b=sc.nextInt();
         int i=1;
         int result=1;
-        while (i<b+1) {
+        while (i<=b) {
             result*=a;
             i++;
         }
